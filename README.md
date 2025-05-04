@@ -1,4 +1,3 @@
-# Newtons_Method_Calculator
 # Newton's Method for Optimization Calculator
 
 This is an interactive **Streamlit-based calculator** for finding the **maximum** or **minimum** of a function using **Newton's Method for Optimization**. It provides symbolic differentiation, step-by-step iteration details, convergence checking, and visualization through plots.
